@@ -1,6 +1,6 @@
 cask "maccalendar" do
   version "1.1.10"
-  sha256 "这里粘贴你在第三步获取的SHA256哈希值"
+  sha256 "4db6752c1c22fd9912618508187ae711731d3c3576a47ad8aba25383f93473b5"
 
   url "https://github.com/bylinxx/MacCalendar/releases/download/v#{version}/MacCalendar_#{version}.dmg"
 
